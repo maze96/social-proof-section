@@ -88,13 +88,12 @@ color: hsl(300, 43%, 22%);
 
 }
 
-p {
-font-size: 15px;
-}
+
 
 .intro-text {
-font-weight: 400;
-color: hsl(300, 22%, 34%);
+font-weight: 500;
+color: hsl(303, 10%, 53%);
+font-size: 16px;
 }
 
 .star-text {
@@ -107,8 +106,6 @@ margin-left: 16px;
 font-size: 18px;
 }
 
-
-
 .verified {
 font-weight: 400;
 color: hsl(333, 80%, 67%);
@@ -116,7 +113,7 @@ margin: 0;
 }
 
 .comment {
-color: hsl(0, 0%, 100%);
+color: hsl(300, 24%, 96%);
 font-weight: 400;
 }
 
@@ -153,7 +150,7 @@ gap: 16px;
 
 .logo {
 border-radius: 50%;
-    
+
 }
 
 .buyer-name {
@@ -236,7 +233,7 @@ max-height: auto;
 
 
 .buyer-name p {
-    margin-bottom: 4px;
+    margin-bottom: 14px;
 }
 
 @media (max-width: 600px) {
